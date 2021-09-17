@@ -1,0 +1,7 @@
+{
+    "characters": [
+        { "id": 1, "name": "Lisa", "age": 10, "parent": ["Homer", "Marge"], "hair": "blond", "checked": true, "icon": "simpsonsIcons lisa" },
+        { "id": 2, "name": "Bart", "age": 9, "parent": ["Homer", "Marge"], "hair": "blond", "checked": false, "icon": "simpsonsIcons bart" },
+        { "id": 3, "name": "Maggie", "age": 2, "parent": ["Homer", "Marge"], "hair": "black", "checked": true }
+    ]
+}
