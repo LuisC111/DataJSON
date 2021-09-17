@@ -6,7 +6,8 @@
         "edad": 10,
         "genero": "M",
         "url": "https://tvazteca.brightspotcdn.com/dims4/default/ed61af2/2147483647/strip/true/crop/1920x1080+0+0/resize/968x545!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F1a%2F0d%2F6284b42a48b7809c1a226f51726a%2Fsimpson-7.png",
-        "grado": 8
+        "grado": 8,
+        "descripcion": "Es un niño al que le gusta poco estudiar, pero asiste con regularidad a la escuela. Prefiere pasar su tiempo libre fuera de casa, desatendiendo sus tareas escolares, socializándose con sus amigos, planeando bromas o travesuras con su mejor amigo Milhouse o con chicos mucho mayores que él."
     },
     {
         "id": 2,    
@@ -14,7 +15,8 @@
         "edad": 36,
         "genero": "M",
         "url": "http://s03.s3c.es/imag/_v0/770x420/8/b/b/Homer.jpg",
-        "grado": 8
+        "grado": 8,
+        "descripcion": "Es un hombre que puede ir y venir de ser francamente horrible a ser extremadamente cariñoso y amoroso. La personalidad de Homero es de inmadurez frecuente, estupidez frecuente, el testimonio tenue, el egoísmo, la pereza y la ira explosiva."
 
     },
     {
@@ -23,7 +25,8 @@
         "edad": 8,
         "genero": "F",
         "url": "http://s03.s3c.es/imag/_v0/770x420/0/b/c/Lisa.jpg",
-        "grado": 8
+        "grado": 8,
+        "descripcion": "Es un personaje principal de la serie de televisión animada Los Simpson. Es la hija mediana de Homer y Marge Simpson, y la hermana de Bart y Maggie. Goza de notable protagonismo y complejidad en la serie aunque es uno de los personajes principales menos popular."
     },
     {
         "id": 4,    
@@ -32,6 +35,7 @@
         "genero": "F",
         "url": "http://s03.s3c.es/imag/_v0/770x420/3/0/d/Marge.jpg",
         "grado": 8
+        "descripcion": "Es uno de los personajes principales de la serie animada Los Simpson. es la esposa de Homero Simpson, y madre de 3 hijos llamados: Bart Simpson de 10 años, Lisa Simpson de 8 y Maggie Simpson."
 
     },
     {
@@ -40,7 +44,8 @@
         "edad": 1,
         "genero": "F",
         "url": "https://www.elimparcial.es/galerias-noticias/galerias/39910/medium/maggieportadilla.jpg",
-        "grado": 8
+        "grado": 8,
+        "descripcion": "Es la tercera y la hija más joven del matrimonio protagonista, Homer Simpson y Marge Simpson, con apenas dos años de vida. Sus hermanos mayores son Bart Simpson y Lisa Simpson."
     },
     {
         "id": 6,    
@@ -48,7 +53,8 @@
         "edad": 62,
         "genero": "M",
         "url": "https://peru21.pe/resizer/DUYd1yGtotQ9WClFapVcbnVEtxo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UV7RVSS5BZF3XBQUPFKSQV4ZR4.jpg",
-        "grado": 8
+        "grado": 8,
+        "descripcion": "Es propietario y cantinero de La taberna de Moe o más conocida como Moe's. Bart Simpson llamaba ocasionalmente al lugar para molestar a Moe, y luego retiraron esta secuencia definitivamente de la serie."
     },
         {
         "id": 7,    
@@ -56,7 +62,8 @@
         "edad": 37,
         "genero": "M",
         "url": "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/YZUY7AWCLJHR5MKNXTBBWMBXC4.jpg",
-        "grado": 8
+        "grado": 8,
+        "descripcion": "Es el dueño de una tienda en Springfield. El Kwik-E-Mart (Traducido como El badulaque en la version española y en la versión hispanoamericana es llamado Kwik-E-Mart, o a veces minisúper o la tienda de Apu), a la cual recurren diariamente los Simpson para comprar sus víveres."
     }
     ]
 }
