@@ -39,7 +39,7 @@
         {
             "id": 5,
             "nombre": "Maggie",
-            "edad": 1,
+            "edad": 01,
             "genero": "F",
             "url": "https://www.elimparcial.es/galerias-noticias/galerias/39910/medium/maggieportadilla.jpg",
             "grado": 8,
