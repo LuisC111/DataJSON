@@ -53,15 +53,6 @@
             "url": "https://peru21.pe/resizer/DUYd1yGtotQ9WClFapVcbnVEtxo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UV7RVSS5BZF3XBQUPFKSQV4ZR4.jpg",
             "grado": 8,
             "descripcion": "Es propietario y cantinero de La taberna de Moe o más conocida como Moe's. Bart Simpson llamaba ocasionalmente al lugar para molestar a Moe, y luego retiraron esta secuencia definitivamente de la serie."
-        },
-        {
-            "id": 7,
-            "nombre": "Apu",
-            "edad": 37,
-            "genero": "M",
-            "url": "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/YZUY7AWCLJHR5MKNXTBBWMBXC4.jpg",
-            "grado": 8,
-            "descripcion": "Es el dueño de una tienda en Springfield. El Kwik-E-Mart (Traducido como El badulaque en la version española y en la versión hispanoamericana es llamado Kwik-E-Mart, o a veces minisúper o la tienda de Apu), a la cual recurren diariamente los Simpson para comprar sus víveres."
         }
     ]
 }
